@@ -23,6 +23,7 @@ a{
 }
 
 .media-icons{
+    display: flex;
     padding-left: 140vh;
     margin-top: auto;
     font-size: 4vh;
