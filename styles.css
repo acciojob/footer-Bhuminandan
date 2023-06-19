@@ -1,1 +1,63 @@
-/* your code here */
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.content{ 
+    padding: 2rem;
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.top{
+    position: relative;
+    display: flex;
+}
+
+.logo_name{
+    text-align: start;
+    font-size: 5vh;
+}
+
+.media-icons{
+    padding-left: 140vh;
+    margin-top: auto;
+    font-size: 4vh;
+    float: right;
+}
+
+.link-boxes{
+    display: flex;
+    padding: 5vh;
+}
+
+#links1{
+    width: 25%;
+}
+#links2{
+    width: 25%;
+}
+
+#links3{
+    width: 25%;
+}
+
+#links4{
+    width: 25%;
+}
+
+.bottom-details{
+    padding: 2rem;
+
+    background-color: lightgray;
+    display: flex;
+}
+
+.policy-terms{
+    padding-left: 150vh;
+    float: right;
+}
+
