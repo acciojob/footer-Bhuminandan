@@ -22,6 +22,10 @@ a{
     font-size: 5vh;
 }
 
+.media-icons a{
+    padding-right: 20px;
+}
+
 .media-icons{
     display: flex;
     padding-left: 140vh;
@@ -52,13 +56,13 @@ a{
 
 .bottom-details{
     padding: 2rem;
-
-    background-color: lightgray;
+    background-color: rgb(84, 82, 82);
     display: flex;
 }
 
 .policy-terms{
-    padding-left: 150vh;
+    color: black;
+    padding-left: 1000px;
     float: right;
 }
 
